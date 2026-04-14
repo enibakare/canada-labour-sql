@@ -1,5 +1,0 @@
-Datasets: Labour Force Characteristics by Province, Labour Force Characteristics by Industry
-Tables: 14-10-0287-01, 14-10-0023-01
-Download: https://www150.statcan.gc.ca/n1/tbl/csv/14100287-eng.zip, https://www150.statcan.gc.ca/n1/tbl/csv/14100023-eng.zip
-Licence: Statistics Canada Open Licence
-Note: Raw CSV not included due to file size. Download directly from the link above.
